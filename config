@@ -1,0 +1,9 @@
+Host github.com
+  HistName github.com
+  User git
+  IdentityFile ~/.ssh/id rsa 
+
+Host github-mindfulcoder
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id rsa mindfulcoder
